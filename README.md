@@ -1,6 +1,6 @@
 # Mordor — entregas 1 e 2
 
-**Autor:** Breno Luiz Silva do Carmo
+**Autores:** Breno Luiz Silva do Carmo e Isaac Salles Gonçalves
 
 **Turma:** 6º período de Engenharia
 
