@@ -1,0 +1,2 @@
+exemplos/erros-sintaticos/18_duracao_expressao.mordor:4:29: sintático: mismatched input '+' expecting ','
+exemplos/erros-sintaticos/18_duracao_expressao.mordor:4:32: sintático: mismatched input ',' expecting {'agh', 'agh_ash', '==', '!=', '<=', '>=', '<', '>', '+', '-', '*', '/', '%', ';', '['}

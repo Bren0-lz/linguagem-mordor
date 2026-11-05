@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/07_operando_ausente.mordor:4:23: sintático: mismatched input ';' expecting {'ashum', 'ashuk', 'nazgum', 'ash', 'burzum', 'burz_ash', LOW, 'agh_burz', 'gimb_burzash', 'gimb_ashum', 'gimbatul', 'gimb_nazgum', 'aghuk', 'aghuk_ash', 'aghuk_burz', 'burzuk', 'thrakuk', 'gimbuk', 'ashum_nazg', '-', '(', '[', FLOAT_LITERAL, INT_LITERAL, STRING_LITERAL, ID}

@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/03_condicao_sem_bloco.mordor:4:14: sintático: mismatched input 'thrak' expecting {'ul', 'ishi'}

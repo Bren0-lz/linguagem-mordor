@@ -1,0 +1,2 @@
+exemplos/erros-sintaticos/20_switch_sem_caso.mordor:4:21: sintático: mismatched input 'gimb_burz' expecting 'gimb_ash'
+exemplos/erros-sintaticos/20_switch_sem_caso.mordor:4:39: sintático: mismatched input '}' expecting {'agh', 'agh_ash', 'ishi', '==', '!=', '<=', '>=', '<', '>', '+', '-', '*', '/', '%', '['}

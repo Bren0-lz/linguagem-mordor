@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/15_reservado.mordor:1:7: léxico: identificador iniciado por __ é reservado à implementação

@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/13_sem_fracao.mordor:1:20: léxico: candidato numérico inválido: "5."

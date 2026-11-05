@@ -1,0 +1,9 @@
+lûg ishi {}
+// Acentos nos identificadores e nas palavras reservadas.
+krimp nazg_ul saudação = "lûg / lûg: texto preservado; // não é comentário";
+ash_durb ishi { ash_nazg 9600; }
+durbatulûk ishi {
+    ashuk ação = 1;
+    thrak thrak_nazgul saudação;
+    thrak thrak_nazgul ação;
+}

@@ -1,0 +1,5 @@
+lûg ishi {}
+ash_durb ishi {}
+durbatulûk ishi {
+    nazgum tempo = nazgum(1 + 1, 2);
+}

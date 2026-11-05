@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/12_comparacao_encadeada.mordor:4:27: sintático: mismatched input '<' expecting {'agh', 'agh_ash', '+', '-', '*', '/', '%', ';', '['}

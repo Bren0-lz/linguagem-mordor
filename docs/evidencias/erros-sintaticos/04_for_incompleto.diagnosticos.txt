@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/04_for_incompleto.mordor:4:21: sintático: missing ';' at ')'

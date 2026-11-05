@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/21_alias_ascii.mordor:1:1: sintático: mismatched input 'lug' expecting HARDWARE

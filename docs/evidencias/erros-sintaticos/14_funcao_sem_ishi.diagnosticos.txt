@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/14_funcao_sem_ishi.mordor:2:20: sintático: missing 'ishi' at '{'

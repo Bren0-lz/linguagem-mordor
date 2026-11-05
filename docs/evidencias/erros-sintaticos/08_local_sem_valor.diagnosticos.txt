@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/08_local_sem_valor.mordor:4:16: sintático: mismatched input ';' expecting {'<', ID}

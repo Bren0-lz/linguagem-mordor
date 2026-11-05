@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/14_prefixo_maiusculo.mordor:1:15: léxico: candidato numérico inválido: "0XFF"

@@ -1,0 +1,1 @@
+Gramática combinada gerada com ANTLR 4.13.2, compilada em Java 21 e validada nos 7 programas; árvores idênticas às gramáticas separadas. Não é captura nem validação da interface ANTLR Lab.

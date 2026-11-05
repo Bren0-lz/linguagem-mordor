@@ -1,0 +1,19 @@
+lûg ishi {}
+krimp ashuk limite = 3;
+ash_durb ishi { ash_nazg 9600; }
+durbatulûk ishi {
+    [ashuk; 3] valores = [1, 2, 3];
+    durb_nazg (ashuk indice = 0; indice < limite; indice = indice + 1) ishi {
+        gimb indice == 1 ishi { thrak_durb; }
+        thrak thrak_nazgul valores[indice];
+    }
+    ashuk valor = 2;
+    gimbul valor ishi {
+        gimb_ash 2 ishi { valor = valor - 1; }
+        gimb_burz ishi { valor = 0; }
+    }
+    durb_at ishi { valor = valor - 1; } durb_gimb valor > 0;
+    durb_gimb ash ishi { krimp_durb; }
+    durb_ash 2 ishi { thrak thrak_nazgul "Ola"; }
+    thrak krimp_nazg nazgum(1, 1);
+}

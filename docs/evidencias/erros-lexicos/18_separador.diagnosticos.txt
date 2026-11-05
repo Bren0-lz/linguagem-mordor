@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/18_separador.mordor:1:15: léxico: candidato numérico inválido: "1_000"

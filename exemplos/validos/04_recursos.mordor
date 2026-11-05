@@ -1,0 +1,22 @@
+lûg ishi {
+    thrakat led = nazg(13) : búrz;
+    gimbat botao = nazg(2);
+    gimbat_ash botaoReserva = nazg(4);
+    gimbat_ashum sensor = nazg_ashum(0);
+    thrakat_ashuk motor = nazg(44) : 0;
+}
+durb durb_burz acender(thrakat saida) ishi {
+    thrak thrak_burzash burz_ash ul saida;
+}
+ash_durb ishi { ash_nazg 115200; }
+durbatulûk ishi {
+    burzash nivel = gimb_burzash botao;
+    ashuk<16> leitura = gimb_ashum sensor;
+    gimb nivel == búrz ishi {
+        thrak acender(led);
+    } gimb_burz ishi { thrak thrak_burzash búrz ul led; }
+    thrak thrak_ashuk motor 128;
+    gimb gimbatul ul recebido ishi {
+        thrak thrak_ash recebido;
+    } gimb_burz ishi { thrak thrak_nazgul leitura; }
+}

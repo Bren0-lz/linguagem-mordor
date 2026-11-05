@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/04_zero_inicial.mordor:1:15: léxico: candidato numérico inválido: "007"

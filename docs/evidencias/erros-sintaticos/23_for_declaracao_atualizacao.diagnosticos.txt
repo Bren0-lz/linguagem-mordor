@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/23_for_declaracao_atualizacao.mordor:4:19: sintático: extraneous input 'ashuk' expecting {'thrak', ')', ID}

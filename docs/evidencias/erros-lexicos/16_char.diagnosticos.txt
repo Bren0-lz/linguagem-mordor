@@ -1,0 +1,2 @@
+exemplos/erros-lexicos/16_char.mordor:1:15: léxico: caractere inválido: "'"
+exemplos/erros-lexicos/16_char.mordor:1:17: léxico: caractere inválido: "'"

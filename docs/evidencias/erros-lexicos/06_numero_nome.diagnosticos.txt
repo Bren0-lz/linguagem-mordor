@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/06_numero_nome.mordor:1:7: léxico: candidato numérico inválido: "2contador"

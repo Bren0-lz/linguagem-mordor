@@ -1,0 +1,5 @@
+lûg ishi {}
+ash_durb ishi {}
+durbatulûk ishi {
+    durb_nazg (;; ashuk x = 1) ishi {}
+}
