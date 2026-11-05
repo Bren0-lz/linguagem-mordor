@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/22_bloco_solto.mordor:4:5: sintático: mismatched input 'ishi' expecting {'krimp', 'thrakul', 'ashum', 'ashuk', 'ashburz', 'burzash', 'nazgum', 'nazg_ul', 'ashuk_burz', 'gimb', 'gimbul', 'durb_gimb', 'durb_ash', 'durb_at', 'durb_nazg', 'krimp_durb', 'thrak_durb', 'thrak', 'ash_nazg', 'ashum_nazg', '}', '[', ID}

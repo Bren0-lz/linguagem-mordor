@@ -1,0 +1,23 @@
+lûg ishi {}
+nazgum<gimb_nazgum> inicio;
+durb [ashuk; 2] copiar([ashuk; 2] dados) ishi { thrakul dados; }
+ash_durb ishi {
+    inicio = gimb_nazgum;
+}
+durbatulûk ishi {
+    ashum<8> pequeno = -128;
+    ashum<16> medio = 12;
+    ashum<32> grande = 10 + 5 * 2;
+    ashuk<32> semSinal = 0xFF;
+    ashuk bits = aghuk<8>(0b10101100, 0x0F);
+    ashuk outros = aghuk_ash<8>(1, aghuk_burz<8>(2, 3));
+    ashuk inverso = burzuk<8>(15);
+    ashuk esquerda = thrakuk<8>(1, 3);
+    ashuk direita = gimbuk<8>(128, 7);
+    ashburz condicao = agh_burz burzum agh (grande >= 10) agh_ash burzum;
+    nazgum decorrido = gimb_nazgum - inicio;
+    [ashuk; 2] dados = [1, 2];
+    [ashuk; 2] copia = copiar(dados);
+    copia[1] = ashuk((medio + 2) % 5);
+    gimb condicao ishi { thrak krimp_nazg decorrido; }
+}

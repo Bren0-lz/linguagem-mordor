@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/17_chamada_sem_thrak.mordor:4:12: sintático: mismatched input '(' expecting {'=', '['}

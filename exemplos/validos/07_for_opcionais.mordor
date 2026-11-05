@@ -1,0 +1,11 @@
+lûg ishi {}
+durb durb_burz passo() ishi { thrakul; }
+durb ashuk_burz receber() ishi { thrakul gimbatul; }
+ash_durb ishi { ash_nazg 9600; }
+durbatulûk ishi {
+    durb_nazg (;;) ishi { krimp_durb; }
+    durb_nazg (thrak passo(); burzum; thrak passo()) ishi { thrak_durb; }
+    ashuk_burz opcional = receber();
+    gimb opcional ul byteRecebido ishi { thrak thrak_ash byteRecebido; }
+    thrakul;
+}

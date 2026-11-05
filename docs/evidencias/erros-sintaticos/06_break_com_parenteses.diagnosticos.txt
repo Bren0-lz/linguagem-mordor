@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/06_break_com_parenteses.mordor:4:15: sintático: mismatched input '(' expecting ';'

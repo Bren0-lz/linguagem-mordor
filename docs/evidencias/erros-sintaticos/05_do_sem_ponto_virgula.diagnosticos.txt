@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/05_do_sem_ponto_virgula.mordor:5:1: sintático: missing ';' at '}'

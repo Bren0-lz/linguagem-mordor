@@ -1,0 +1,18 @@
+lûg ishi {}
+krimp nazg_ul mensagem = "Média: ";
+durb ashum_nazg media(ashum_nazg primeiro, ashum_nazg segundo) ishi {
+    thrakul (primeiro + segundo) / 2.0;
+}
+durb durb_burz mostrar(ashum_nazg valor) ishi {
+    thrak thrak_nazg mensagem;
+    thrak thrak_nazgul valor;
+    thrakul;
+}
+ash_durb ishi {
+    ash_nazg 9600;
+    ashum_nazg resultado = media(21.5, 2.25e1);
+    [ashum_nazg; 2] temperaturas = [resultado, ashum_nazg(20)];
+    ashum inteiro = ashum(resultado);
+    thrak mostrar(temperaturas[0]);
+}
+durbatulûk ishi {}

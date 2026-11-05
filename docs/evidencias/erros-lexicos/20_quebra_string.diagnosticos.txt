@@ -1,0 +1,2 @@
+exemplos/erros-lexicos/20_quebra_string.mordor:1:18: léxico: string sem fechamento ou com escape/quebra de linha inválido
+exemplos/erros-lexicos/20_quebra_string.mordor:2:6: léxico: string sem fechamento ou com escape/quebra de linha inválido

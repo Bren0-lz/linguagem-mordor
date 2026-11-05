@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/01_binario.mordor:1:15: léxico: candidato numérico inválido: "0b102"

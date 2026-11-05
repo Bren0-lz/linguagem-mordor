@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/02_hexadecimal.mordor:1:15: léxico: candidato numérico inválido: "0xFG"

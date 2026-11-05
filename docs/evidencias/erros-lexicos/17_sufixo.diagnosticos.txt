@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/17_sufixo.mordor:1:20: léxico: candidato numérico inválido: "1.0f"

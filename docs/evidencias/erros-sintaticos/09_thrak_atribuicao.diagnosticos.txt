@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/09_thrak_atribuicao.mordor:4:17: sintático: mismatched input '=' expecting '('

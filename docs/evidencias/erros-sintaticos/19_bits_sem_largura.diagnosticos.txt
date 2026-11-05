@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/19_bits_sem_largura.mordor:4:23: sintático: mismatched input '(' expecting '<'

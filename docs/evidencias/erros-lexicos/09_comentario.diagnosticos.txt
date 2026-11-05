@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/09_comentario.mordor:1:1: léxico: comentário de bloco sem fechamento

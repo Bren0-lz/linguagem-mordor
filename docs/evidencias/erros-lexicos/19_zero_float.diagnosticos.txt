@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/19_zero_float.mordor:1:20: léxico: candidato numérico inválido: "01.5"

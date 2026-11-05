@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/11_sem_setup.mordor:2:1: sintático: mismatched input 'durbatulûk' expecting {'ash_durb', 'krimp', 'durb', 'ashum', 'ashuk', 'ashburz', 'burzash', 'nazgum', 'nazg_ul', 'ashuk_burz', 'ashum_nazg', '['}

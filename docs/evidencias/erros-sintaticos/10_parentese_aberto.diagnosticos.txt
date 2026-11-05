@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/10_parentese_aberto.mordor:4:25: sintático: missing ')' at ';'

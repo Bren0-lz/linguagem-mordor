@@ -1,0 +1,1 @@
+(program lûg ishi { } ash_durb (block ishi { }) durbatulûk (block ishi { }) <EOF>)

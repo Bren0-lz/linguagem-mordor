@@ -1,0 +1,1 @@
+exemplos/erros-sintaticos/13_apos_fim.mordor:4:1: sintático: mismatched input 'ashuk' expecting <EOF>

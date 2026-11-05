@@ -1,0 +1,1 @@
+exemplos/erros-lexicos/12_sem_inteiro.mordor:1:20: léxico: candidato numérico inválido: ".5"

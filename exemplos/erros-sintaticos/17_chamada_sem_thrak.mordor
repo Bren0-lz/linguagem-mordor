@@ -1,0 +1,5 @@
+lûg ishi {}
+ash_durb ishi {}
+durbatulûk ishi {
+    mostrar(1);
+}
